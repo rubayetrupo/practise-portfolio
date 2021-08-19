@@ -34,3 +34,12 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+
+.second-half img {
+  width: 100%;
+}
+.second-half {
+  width: 50%;
+  padding-left: 5%;
+  margin-right: 2%;
+}
